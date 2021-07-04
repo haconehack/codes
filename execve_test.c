@@ -14,7 +14,7 @@ int main()
         apid = fork();
 
         printf("----noptrix noptrix--parent id = 0 and other is above 0\n");
-        if(apid == 0)
+        if(apid != 0)
                 execve("/bin/ls", argd, NULL);
 
         printf("---- i'm nop(kj x90 a.k.a vocalist no hacker but do hacks!\n");
