@@ -1,13 +1,15 @@
 
-x90 A.K.A<br>
+x90 & Ch0nk Hacking(Research) Team<br>
 <br>
-Hello It's my first hacking stuffs page.<br>
-You can probably read the articles and learn hacking from it.<br>
+Hello It's my first Research Hacking stuffs page.<br>
+You can probably read tracks of our hacker team<br>
 Thanks ~!<br>
 <br>
 - Function analysis (Reversing)<br>
+- Vulnerability Research (VR)<br>
+- Develop Hacking Tool<br>
+- etc.
 <br>
 <br>
-<a href="https://haconehack.github.io/codes/create_html_reversing.htm">hacone king reverse MART! (to buy reversed)</a>
 
-Auditing!!
+Research!
