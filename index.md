@@ -1,6 +1,5 @@
-<img src="https://pbs.twimg.com/profile_images/1414501497128198144/RHWndNBN_400x400.jpg">hacker x90.<br><br>
 x90 & Ch0nk's <b>Chx90</b> Hacking(Research) Team<br>
-<br>
+<img src="https://pbs.twimg.com/profile_images/1414501497128198144/RHWndNBN_400x400.jpg">hacker x90.<br><br>
 Hello It's our first Research Hacking stuffs page.<br>
 You can probably read tracks of our hacker team<br>
 Thanks ~!<br>
