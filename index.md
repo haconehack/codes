@@ -6,7 +6,7 @@ x90 & Ch0nk's <b>Chx90</b> Hacking(Research) Team<br>
 - misc.<br><br>
 
 We will made upload yours research article or github source codes on this site as the sub-member.<br>
-And We can make the workshop in small caffee (hacker party) in south korea.<br>
+And We can make the workshop in small cafe (hacker party) in south korea.<br>
 <br>
 <img src="https://pbs.twimg.com/profile_images/1414501497128198144/RHWndNBN_400x400.jpg">hacker x90.<br><br>
 Hello It's our first Research Hacking stuffs page.<br>
