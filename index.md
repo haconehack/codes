@@ -21,7 +21,7 @@ Thanks ~!<br>
 <br>
 
 [hacking tools]<br>
-<a href="https://github.com/haconehack/pwsort"><Ch0nk> pwsort - password list sorting program</a><br><br>
+<a href="https://github.com/haconehack/pwsort">Ch0nk: pwsort</a> - password list sorting program<br><br>
 [research]<br>
 <a href="https://github.com/haconehack/repo_Chx90">Chx90 Research Project(github repo)</a><br>
 <br>
