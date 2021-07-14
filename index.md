@@ -21,15 +21,15 @@ Thanks ~!<br>
 <br>
 
 [hacking tools]<br>
-<a href="https://github.com/haconehack/pwsort">pwsort by Ch0nk</a><br><br>
-<a href="https://github.com/haconehack/repo_Chx90">Chx90 Repo</a>, ...
-Research!
+<a href="https://github.com/haconehack/pwsort"><Ch0nk> pwsort - password list sorting program</a><br><br>
+[research]<br>
+<a href="https://github.com/haconehack/repo_Chx90">Chx90 Research Project(github repo)</a><br>
 <br>
 <br>
 <br>
 <br>
 w00w00!<br>
 hack the planet<br>
-1337<br>
+31337<br>
 <br>
 EOF
