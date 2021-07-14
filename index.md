@@ -13,3 +13,11 @@ Thanks ~!<br>
 
 <a href="https://github.com/haconehack/repo_Chx90">Chx90 Repo</a>, ...
 Research!
+<br>
+<br>
+<br>
+<br>
+w00w00!<br>
+hack the planet<br>
+1337<br>
+
