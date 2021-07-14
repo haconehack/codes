@@ -15,15 +15,11 @@ Hello It's our first Research Hacking stuffs page.<br>
 You can probably read tracks of our hacker team<br>
 Thanks ~!<br>
 <br>
-<br>
-<br>
 
 [hacking tools]<br>
 <a href="https://github.com/haconehack/pwsort">Ch0nk: pwsort</a> - password list sorting program<br><br>
 [research]<br>
 <a href="https://github.com/haconehack/repo_Chx90">Chx90 Research Project(github repo)</a><br>
-<br>
-<br>
 <br>
 <br>
 w00w00!<br>
