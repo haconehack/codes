@@ -1,5 +1,5 @@
 x90 & Ch0nk's <b>Chx90</b> Hacking(Research) Team<br>
-[CFP(Call For Paper)] for 31337 hacker workshop (Submission: x90cx90c1@gmail.com)<br>
+[[ CFP(Call For Paper) for 31337 hacker workshop (Submission: x90cx90c1@gmail.com) ]]<br>
 [Topic]:
 - Reversing (Function analysis)<br>
 - Vulnerability Research(VR)<br>
