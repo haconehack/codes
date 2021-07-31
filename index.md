@@ -1,7 +1,7 @@
 <b>Chx90</b> Hacking(Research) Team<br>
 [Members]<br>
 - x90 - team leader (twitter @blackngel123)<br>
-- Ch0nk - he is real young 31337 (<a href="http://chonk.rocks">personal site<br>
+- Ch0nk - he is real young 31337 (<a href="http://chonk.rocks">personal site)<br>
 - dongwong-lee - korean hacker lee<br><br>
 [[ CFP(Call For Paper) for 31337 hacker workshop (Submission: x90cx90c1@gmail.com) ]]<br>
 [Topic]:
