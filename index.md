@@ -3,7 +3,7 @@
 - x90 - team leader (twitter @blackngel123)<br>
 - Ch0nk - he is real young 31337 (<a href="http://chonk.rocks">personal site)<br>
 - hogag - not give up.<br><br>
-[[ CFP(Call For Paper) for 31337 hacker workshop (Submission: x90cx90c1@gmail.com) ]]<br>
+[ CFP(Call For Paper) for 31337 hacker workshop (Submission: x90cx90c1@gmail.com) ]<br>
 [Topic]:
 - Reversing (Function analysis)<br>
 - Vulnerability Research(VR)<br>
