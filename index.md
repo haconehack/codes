@@ -10,7 +10,7 @@ $ Reversing (Function analysis)<br>
 $ Vulnerability Research(VR)<br>
 $ Kernel rootkit<br>
 $ Develop Hacking Tool<br>
-$ misc.<br><br>
+$ misc<br><br>
 
 We will made upload yours research article or github source codes on this site as the sub-member.<br>
 And We can make the workshop in small cafe (hacker party) in south korea.<br>
