@@ -9,7 +9,7 @@ $ hogag - not give up.(twitter @leedw808)
 $ Reversing (Function analysis)<br>
 $ Vulnerability Research(VR)<br>
 $ Kernel rootkit<br>
-$ Develop Hacking Tool
+$ Develop Hacking Tool<br>
 $ misc.<br><br>
 
 We will made upload yours research article or github source codes on this site as the sub-member.<br>
