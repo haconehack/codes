@@ -1,0 +1,67 @@
+
+*PRIVATE* *PRIVATE* *PRIVATE* *PRIVATE*
+---------------------------------------
+Title: Know-how to become a 1337 hacker
+Author: x90<x90cx90c1 [at] gmail.com>
+Date: 2021.12
+---------------------------------------
+*PRIVATE* *PRIVATE* *PRIVATE* *PRIVATE
+
+1. Hacking
+
+What is hacking? It's the sequence of abusing codes in insecure manner.
+You can compromise the target OS System as a server or client.
+ 
+2. Hacking Stuffs
+
+PoC, exploits, hacking tool, backdoor, kernel rootkits, phishing site,
+and ransomware
+
+3. How to start hacking
+
+Hello- If you wanted to become a 1337 hacker that
+famous hacker social hacker and how to do start for it??
+ask yourself!
+
+Honestly, I say!~
+You need to understand the system to learn hacking firstly.
+You can remeber the concept of hacking. as this, 1) you can learn
+about the target programs. and 2) you can pose your hacking focus
+onto it.
+
+And so?? Hack~!
+
+Find many- many- security problems as these vulnerabilties.
+
+And I give the question for how to working in the system inner side.
+
+[Q]
+- How to working the linux kernel?
+- How to working the SUID bit binaries of su, sudo, ping?
+
+4. 1337 hacking?
+
+1) vulnerability research to archive the analyze the technically
+   a program or program source codes after reading and reading for them.
+   and should be security testing.
+   That i mean source code auditing and have to find CVE like security
+   bugs enough for you to spend times.
+   If you have many rest times to do this job then you can be a 
+   better researcher.
+
+2) Make hacking tools
+   awesome~!
+
+5. Conclusion
+
+Hacker could become a famous 1337. are you elite?? then it's so easy to become
+a talent. but it's not a hacker. hacker have to know what about technical
+hacking is...and read, write codes exactly and carefully.
+
+It's hacker's only way. you should be learn hacking as an technology.
+And Practice Hack again and study and Practice continuly.
+You can do it as well.
+Don't forget You are a hacker. And study!
+
+
+x90
