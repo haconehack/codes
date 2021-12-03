@@ -19,9 +19,9 @@ and ransomware
 
 3. How to start hacking
 
-Hello- If you wanted to become a 1337 hacker that
-famous hacker social hacker and how to do start for it??
-ask yourself!
+Hello- do you want to become a famous 1337 hacker in world hacker social
+and for done it, do you know how to do start for it??
+Ask yourself!
 
 Honestly, I say!~
 You need to understand the system to learn hacking firstly.
@@ -29,7 +29,7 @@ You can remeber the concept of hacking. as this, 1) you can learn
 about the target programs. and 2) you can pose your hacking focus
 onto it.
 
-And so?? Hack~!
+And So?? Try to Hack~!
 
 Find many- many- security problems as these vulnerabilties.
 
@@ -39,15 +39,37 @@ And I give the question for how to working in the system inner side.
 - How to working the linux kernel?
 - How to working the SUID bit binaries of su, sudo, ping?
 
+some noobs asked me like that 'how this program going to 
+my mean that how the inner process?'. i noticed the truth to learn hacking 
+funny and educational purpose, noob should be thinking like this
+way or style. have many curious and many hack tries to do as possible.
+
+have many curious about software inner working process.
+
 4. 1337 hacking?
 
-1) vulnerability research to archive the analyze the technically
+1) Vulnerability Research to archive the analyze the technically
    a program or program source codes after reading and reading for them.
    and should be security testing.
-   That i mean source code auditing and have to find CVE like security
+   That i mean *source code auditing** and have to find CVE like security
    bugs enough for you to spend times.
    If you have many rest times to do this job then you can be a 
    better researcher.
+
+   I've expriened in a security company as a researcher for 1 year.
+   in seoul city of korea. the hacker boss gave me the CVE link
+   and references to do reearch for the month. then i did research alone.
+   I was written 5 reports by using hwp word processor. 
+   CVE report is all boundary 15 pages. them was similar formation reports.
+   Somedays I made korean version exploits and tested. someday
+   I made -1day exploits. the hacker boss conguraturations for me and him.
+   he was likes to me.
+
+   If you want to study CVE and you also can the working in an company.
+   But If you want to learn research alone for an hobby then
+   It's not good comfortable. You need to do raw-research style.
+   with vim editor on linux. do source code auditing or reversing with
+   x86 or x64 assembly. two~
 
 2) Make hacking tools
    awesome~!
@@ -62,6 +84,10 @@ It's hacker's only way. you should be learn hacking as an technology.
 And Practice Hack again and study and Practice continuly.
 You can do it as well.
 Don't forget You are a hacker. And study!
+
+6. References
+
+[1] SecurityHacker: https://en.wikipedia.org/wiki/Security_hacker
 
 
 x90
