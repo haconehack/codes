@@ -60,7 +60,7 @@ have many curious about software inner working process.
 
 4. 1337 hacking
 
-1) Vulnerability Research to archive the analyze the program or program
+1-1) Vulnerability Research to archive the analyze the program or program
    source coddes technically after reading and reading for them. 
    and should be security testing.
    That I mean *source code auditing** and have to find CVE like security
@@ -83,7 +83,7 @@ have many curious about software inner working process.
    with vim editor on linux. do source code auditing or reversing with
    x86 or x64 assembly. two~
 
-2) Souce Code Auditing
+1-2) Souce Code Auditing
    If you want to pick the bugs via Source code auditing, First
    You have to know 1) many security vulnerability concepts.
    For example) buffer overflow, format string bug, race condition bug,
@@ -104,20 +104,31 @@ have many curious about software inner working process.
    vulnerable! If you catch the bug then it's exploit writing time coming
    up!~
 
-3) Versioning
-   Make public exploits to work on many other testbeds...
- 
-4) Make hacking tools
+2) Exploit writing
+   If you found a security bug then you have to write the exploit code
+   by C or python. exploit worked step by step and the all steps are
+   made the target OS *information leak* or *Priv-esc* impact.
+   It's hard job to the source code auditing.
+   If you have good dude if he is exprienced to write exploits.
+   Say to him to help your last job he may help you to successfully
+   complete of the working.
+   
+   If you want to write your own exploits you need to know how to code
+   the exploits. socket programming, shm programming, forking, threading,
+   ioctl, and so on. Learn from basic of syntax and advanced codings.
+
+   Hey~ I Just thought the 1337 should know about the code*
+
+3) Make hacking tools
    awesome~!
 
 5. Conclusion
 
-Hacker could become a famous 1337. are you elite?? then it's so easy to become
-a talent. but it's not a hacker. hacker have to know what about technical
-hacking is...and read, write codes exactly and carefully.
+Im this technical paper, I explained the way to become a 1337 hacker.
+Hacker could become a famous 1337 If he did very good at technical hacking.
+...and read, write codes exactly and carefully.
 
-It's hacker's only way. you should be learn hacking as an technology.
-And Practice Hack again and study and Practice continuly.
+Practice Hack again and study and Practice continuly.
 You can do it as well.
 Don't forget You are a hacker. And study!
 
