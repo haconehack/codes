@@ -86,8 +86,10 @@ have many curious about software inner working process.
    If you want to pick the bugs via Source code auditing, First
    You have to know 1) many security vulnerability concepts.
    For example) buffer overflow, format string bug, race condition bug,
-   null pointer dref, uaf, sql injection, csrf, buffer overread, 
-   off-by-one, ... you can learn their concepts enough possible!
+   null pointer dref, uaf, sql injection, csrf, webshell upload, 
+   buffer overread, off-by-one, ... you can learn their concepts 
+   enough possible!
+
    And 2) read target program's source codes written by C or php language.
    You can easily find sql injection but hard to find buffer overflow and
    like system bugs. but I expected to you to pick up some bad codes
@@ -95,6 +97,12 @@ have many curious about software inner working process.
    source codes and for many auditing expriences.
    If you tried to more and more with many exprienced, you will
    found many bugs. and write CVE reports in vim editor.
+
+   Compile! and insert debug printf function calls to the source codes.
+   And testing and testing to know how this source code version is 
+   vulnerable! If you catch the bug then it's exploit writing time coming
+   up!~
+   
 
 3) Make hacking tools
    awesome~!
