@@ -17,6 +17,7 @@ Date: 2021.12
         4. 1337 hacking
         5. Conclusion
         6. References
+        7. x90 diary
 --------------------------------
 
 1. Hacking
@@ -26,7 +27,7 @@ You can compromise the target OS System as a server or client.
  
 2. Hacking Stuffs
 
-PoC, exploits, hacking tool, backdoor, kernel rootkits, phishing site,
+PoC, exploits, hacking tool, kernel rootkits, phishing site,
 and ransomware
 
 3. How to start hacking
@@ -88,8 +89,8 @@ have many curious about software inner working process.
    You have to know 1) many security vulnerability concepts.
    For example) buffer overflow, format string bug, race condition bug,
    null pointer dref, uaf, sql injection, csrf, webshell upload, 
-   buffer overread, off-by-one, ... you can learn their concepts 
-   enough possible!
+   buffer overread, off-by-one, integer wrap-up bug, heap overflow, 
+   ... you can learn their concepts enough possible!
 
    And 2) read target program's source codes written by C or php language.
    You can easily find sql injection but hard to find buffer overflow and
@@ -140,3 +141,12 @@ Don't forget You are a hacker. And study!
 
 
 x90
+
+7. x90 Diary
+
+2021.12.05:
+ I am writing this technical paper for my advance. not so many words
+ But it's an explore the what is elite hacker's hacking is.....
+ No more words?? hrm.. 
+
+2021.12.06:
