@@ -6,6 +6,18 @@ Date: 2021.12
 ---------------------------------------
 *PRIVATE* *PRIVATE* *PRIVATE* *PRIVATE
 
+
+--------------------------------
+ Table of Contents
+--------------------------------
+        1. Hacking
+        2. Hacking Stuffs
+        3. How to start hacking
+        4. 1337 hacking?
+        5. Conclusion
+        6. References
+--------------------------------
+
 1. Hacking
 
 What is hacking? It's the sequence of abusing codes in insecure manner.
@@ -36,7 +48,7 @@ And I give the question for how to working in the system inner side.
 
 [Q]
 - How to working the linux kernel?
-- How to working the SUID bit binaries of su, sudo, ping?
+- How to working the SUID bit binaries of su, sudo, ping, pulseaudio?
 
 some noobs asked me like that 'how this program going to 
 my mean that how the inner process?'. i noticed the truth to learn hacking 
@@ -74,12 +86,15 @@ have many curious about software inner working process.
    If you want to pick the bugs via Source code auditing, First
    You have to know 1) many security vulnerability concepts.
    For example) buffer overflow, format string bug, race condition bug,
-   null pointer dref, uaf, sql injection, buffer overread, off-by-one,
-   ... you can learn them as enough possible!
-   And 2) read target program's source codes written by C or php script.
-   You can easily find sql injection but hard to find buffer overflow.
-   But if you tried to more and more with many exprienced, you will
-   found many. and write CVE reports in vim editor.
+   null pointer dref, uaf, sql injection, csrf, buffer overread, 
+   off-by-one, ... you can learn their concepts enough possible!
+   And 2) read target program's source codes written by C or php language.
+   You can easily find sql injection but hard to find buffer overflow and
+   like system bugs. but I expected to you to pick up some bad codes
+   in an source code directory. right? then let's try again to audit
+   source codes and for many auditing expriences.
+   If you tried to more and more with many exprienced, you will
+   found many bugs. and write CVE reports in vim editor.
 
 3) Make hacking tools
    awesome~!
@@ -98,6 +113,8 @@ Don't forget You are a hacker. And study!
 6. References
 
 [1] SecurityHacker: https://en.wikipedia.org/wiki/Security_hacker
+    haha newbie is same with noob.
+    i'm elite hacker. no blackhat and whitehat. i'm greyhat.
 
 
 x90
