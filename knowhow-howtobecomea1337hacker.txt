@@ -1,4 +1,3 @@
-
 *PRIVATE* *PRIVATE* *PRIVATE* *PRIVATE*
 ---------------------------------------
 Title: Know-how to become a 1337 hacker
@@ -71,7 +70,18 @@ have many curious about software inner working process.
    with vim editor on linux. do source code auditing or reversing with
    x86 or x64 assembly. two~
 
-2) Make hacking tools
+2) Souce code auditing
+   If you want to pick the bugs via Source code auditing, First
+   You have to know 1) many security vulnerability concepts.
+   For example) buffer overflow, format string bug, race condition bug,
+   null pointer dref, uaf, sql injection, buffer overread, off-by-one,
+   ... you can learn them as enough possible!
+   And 2) read target program's source codes written by C or php script.
+   You can easily find sql injection but hard to find buffer overflow.
+   But if you tried to more and more with many exprienced, you will
+   found many. and write CVE reports in vim editor.
+
+3) Make hacking tools
    awesome~!
 
 5. Conclusion
