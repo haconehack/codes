@@ -1,3 +1,4 @@
+
 *PRIVATE* *PRIVATE* *PRIVATE* *PRIVATE*
 ---------------------------------------
 Title: Know-how to become a 1337 hacker
@@ -13,7 +14,7 @@ Date: 2021.12
         1. Hacking
         2. Hacking Stuffs
         3. How to start hacking
-        4. 1337 hacking?
+        4. 1337 hacking
         5. Conclusion
         6. References
 --------------------------------
@@ -57,12 +58,12 @@ way or style. have many curious and many hack tries to do as possible.
 
 have many curious about software inner working process.
 
-4. 1337 hacking?
+4. 1337 hacking
 
-1) Vulnerability Research to archive the analyze the technically
-   a program or program source codes after reading and reading for them.
+1) Vulnerability Research to archive the analyze the program or program
+   source coddes technically after reading and reading for them. 
    and should be security testing.
-   That i mean *source code auditing** and have to find CVE like security
+   That I mean *source code auditing** and have to find CVE like security
    bugs enough for you to spend times.
    If you have many rest times to do this job then you can be a 
    better researcher.
@@ -82,7 +83,7 @@ have many curious about software inner working process.
    with vim editor on linux. do source code auditing or reversing with
    x86 or x64 assembly. two~
 
-2) Souce code auditing
+2) Souce Code Auditing
    If you want to pick the bugs via Source code auditing, First
    You have to know 1) many security vulnerability concepts.
    For example) buffer overflow, format string bug, race condition bug,
@@ -102,9 +103,11 @@ have many curious about software inner working process.
    And testing and testing to know how this source code version is 
    vulnerable! If you catch the bug then it's exploit writing time coming
    up!~
-   
 
-3) Make hacking tools
+3) Versioning
+   Make public exploits to work on many other testbeds...
+ 
+4) Make hacking tools
    awesome~!
 
 5. Conclusion
