@@ -1,0 +1,45 @@
+nhttpd-alpha
+Version: 0.1.1
+
+http://kldp.net/projects/nhttpd/
+
+
+Tested OS
+ 1. RedHat Linux 7.3
+ 2. Fedora Core1
+ 3. MacOS X.3
+
+Requirement
+ 1. libxml2 - http://www.xmlsoft.org/
+
+
+ChangeLog
+
+2005-01-18 (0.1.1)
+ 1. http_request_parse가 쓸데 없이 루프를 돌던 버그 수정.
+
+2004-10-24 (0.1.0)
+ 1. 여러개의 virtual host가 설정되면 죽던 버그 수정.
+ 2. 로그파일 레코드 추가
+ 3. 서버 구동시 메시지 출력
+ 4. 파일을 찾지 못할 경우 document_root/directory_index 파일을 보내던 버그 수정
+ 5. tlog 완성
+
+2004-10-22
+ 1. -v 옵션 추가. 버전 표시하고 종료.
+ 2. 로그파일 열기/닫기
+
+2004-10-21 (0.0.3)
+ 1. 로그 처리 관련 작업 시작
+  1. log.h, log.c 추가
+  2. struct log_record_t, struct logfile_t, struct log_t 구조체 추가
+  3. tlog_proc 쓰레드 구동
+  4. 설정파일에 로그 관련 추가
+  5. 로그 관련 설정 파싱
+ 2. MacOS X에서 파일 전송시 무한루프 돌던 버그(300545) 수정
+ 3. get_vhost_filefd에서 호스트를 찾아내는 부분의 개선
+ 4. 설정파일에 한글 설명 추가
+
+2004-10-20 (0.0.2)
+ 1. fork후에 쓰레드가 블록되던 현상 잡음
+ 2. root가 실행할 경우 설정파일의 ServerUser에 설정된 유저로 실행
